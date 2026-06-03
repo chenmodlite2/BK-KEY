@@ -1,0 +1,56 @@
+{
+    "key_001": {
+        "key": "CHEN-TOOL-2026-A1B2C3D4E5F6",
+        "owner": "CHEN_TOOL2",
+        "telegram": "@CHEN_TOOL2",
+        "version": "Ultimate PRO V4",
+        "license_type": "LIFETIME PREMIUM",
+        "expiry": "lifetime",
+        "tool_name": "PYTHON ENCRYPTOR PRO",
+        "bound_machine": null,
+        "ascii_banner": [],
+        "custom_banner": "",
+        "features": {
+            "max_encrypt": 999,
+            "watermark": true,
+            "telegram_send": true
+        }
+    },
+    "key_002": {
+        "key": "ALI-HACKER-2026-X9Y8Z7W6V5",
+        "owner": "ALI_HACKER",
+        "telegram": "@ALI_HACKER",
+        "version": "MASTER EDITION",
+        "license_type": "PREMIUM",
+        "expiry": "2026-12-31",
+        "tool_name": "ALI ENCRYPTOR",
+        "bound_machine": null,
+        "ascii_banner": [
+            "╔═══════════════════════════════════╗",
+            "║      🔥 ALI HACKER TOOL 🔥         ║",
+            "║     Telegram: @ALI_HACKER          ║",
+            "╚═══════════════════════════════════╝"
+        ],
+        "custom_banner": "",
+        "features": {
+            "max_encrypt": 500,
+            "watermark": true
+        }
+    },
+    "key_003": {
+        "key": "RAJ-PRO-2026-M1N2B3V4C5",
+        "owner": "RAJ_SECURITY",
+        "telegram": "@RAJ_SECURITY",
+        "version": "BLACK EDITION",
+        "license_type": "VIP",
+        "expiry": "2027-01-01",
+        "tool_name": "RAJ CRYPTO TOOL",
+        "bound_machine": null,
+        "ascii_banner": [],
+        "custom_banner": "CUSTOM BANNER FOR RAJ",
+        "features": {
+            "max_encrypt": 1000,
+            "watermark": false
+        }
+    }
+}
