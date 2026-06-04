@@ -1,14 +1,14 @@
 {
-    "key_001": {
-        "key": "CHEN-TOOL-2026-A1B2C3D4",
-        "owner": "CHEN_TOOL2",
-        "telegram": "@CHEN_TOOL2",
-        "version": "V4 Ultimate",
+    "key_002": {
+        "key": "ALI-2026-XYZ123",
+        "owner": "ALI_HACKER",
+        "telegram": "@ALI_HACKER",
+        "version": "PRO MAX",
         "license_type": "PREMIUM",
-        "expiry": "lifetime",
-        "tool_name": "PYTHON ENCRYPTOR",
+        "expiry": "2026-12-31",
+        "tool_name": "ALI ENCRYPTOR",
         "bound_machine": null,
         "ascii_banner": [],
-        "custom_banner": ""
+        "custom_banner": "CUSTOM BANNER TEXT"
     }
 }
